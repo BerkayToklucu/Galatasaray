@@ -26,6 +26,6 @@
 ## Katkılar ⏳
 
 	 
-[BerkayToklucu](https://www.github.com/BerkayToklucu)
+[@BerkayToklucu](https://www.github.com/BerkayToklucu)
 
   
